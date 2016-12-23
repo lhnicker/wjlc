@@ -5,6 +5,14 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.wjlc.util", "com.wjlc.util\com.wjlc.util.csproj", "{2E5FE428-8FF0-41A3-A022-6D059C1923AE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PowerDesigner", "PowerDesigner", "{15E091F6-CB04-48B4-AD46-16458AB71477}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Workspace\PowerDesigner\WJLC_DB\WJLC_DB.pjb = ..\..\..\Workspace\PowerDesigner\WJLC_DB\WJLC_DB.pjb
+		..\..\..\Workspace\PowerDesigner\WJLC_DB\WJLC_DB.prj = ..\..\..\Workspace\PowerDesigner\WJLC_DB\WJLC_DB.prj
+		..\..\..\Workspace\PowerDesigner\WJLC_DB\WJLC_User.pdb = ..\..\..\Workspace\PowerDesigner\WJLC_DB\WJLC_User.pdb
+		..\..\..\Workspace\PowerDesigner\WJLC_DB\WJLC_User.pdm = ..\..\..\Workspace\PowerDesigner\WJLC_DB\WJLC_User.pdm
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
